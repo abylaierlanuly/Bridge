@@ -1,0 +1,12 @@
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.csprojAssemblyReference.cache
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.csproj.CoreCompileInputs.cache
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.AssemblyInfoInputs.cache
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.AssemblyInfo.cs
+/Users/abylai/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.1/Bridge.deps.json
+/Users/abylai/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.1/Bridge.runtimeconfig.json
+/Users/abylai/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.1/Bridge.runtimeconfig.dev.json
+/Users/abylai/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.1/Bridge.dll
+/Users/abylai/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.1/Bridge.pdb
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.dll
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.pdb
+/Users/abylai/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.1/Bridge.genruntimeconfig.cache
